@@ -3,6 +3,7 @@ The rainbow
 orange
 blue
 purple
+yellow
 red
 white
 black
