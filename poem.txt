@@ -5,6 +5,7 @@ blue
 purple
 yellow
 red
+indigo
 white
 unicorn
 black
