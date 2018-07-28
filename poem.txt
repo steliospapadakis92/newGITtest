@@ -6,6 +6,7 @@ purple
 yellow
 red
 indigo
+Recycle!
 white
 unicorn
 black
